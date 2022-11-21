@@ -1,0 +1,5 @@
+08:42:48 AM: DEBUG [logging_curso.py:11] Esto es un log de debug
+08:42:48 AM: INFO [logging_curso.py:12] Esto es un log de prueba de error
+08:42:48 AM: WARNING [logging_curso.py:13] Esto es un log de prueba de error
+08:42:48 AM: ERROR [logging_curso.py:14] Esto es un log de prueba de error
+08:42:48 AM: CRITICAL [logging_curso.py:15] Esto es un log de prueba de error
