@@ -1,0 +1,25 @@
+09:54:15 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:54:15 AM: INFO [clases.py:36] El camarero está poniendo el café
+09:56:20 AM: INFO [clases.py:24] El cliente cliente1 se está tomado la taza de cafe
+09:56:20 AM: INFO [clases.py:60] El cliente cliente1 se ha tomado el café muy agusto a 21 grados
+09:57:10 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:57:10 AM: INFO [clases.py:36] El camarero está poniendo el café
+09:57:45 AM: INFO [clases.py:24] El cliente cliente1 se está tomado la taza de cafe
+09:57:45 AM: INFO [clases.py:60] El cliente cliente1 se ha tomado el café muy agusto a 32 grados
+09:58:01 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:58:01 AM: INFO [clases.py:36] El camarero está poniendo el café
+09:58:03 AM: INFO [clases.py:24] El cliente cliente1 se está tomado la taza de cafe
+09:58:03 AM: ERROR [clases.py:52] Cafe muy caliente
+09:58:03 AM: ERROR [clases.py:53] El camarero le pone un vaso de agua
+09:58:17 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:58:17 AM: INFO [clases.py:36] El camarero está poniendo el café
+09:58:18 AM: INFO [clases.py:24] El cliente cliente1 se está tomado la taza de cafe
+09:58:18 AM: ERROR [clases.py:52] Cafe muy caliente
+09:58:18 AM: ERROR [clases.py:53] El camarero le pone un vaso de agua
+09:58:23 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:58:23 AM: INFO [clases.py:36] El camarero está poniendo el café
+09:58:24 AM: INFO [clases.py:24] El cliente cliente1 se está tomado la taza de cafe
+09:58:24 AM: ERROR [clases.py:55] Cafe muy frio
+09:58:24 AM: ERROR [clases.py:56] El camarero le calienta más el café
+09:58:51 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+09:58:51 AM: INFO [clases.py:36] El camarero está poniendo el café
