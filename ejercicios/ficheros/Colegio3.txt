@@ -1,0 +1,3 @@
+Nombre3|Apellidos3|3333C|Historia;Lengua
+Nombre7|Apellidos7|7777G|Gimnasia
+Nombre10|Apellidos10|1010J|Geografís;Historia
