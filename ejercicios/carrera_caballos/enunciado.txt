@@ -1,0 +1,47 @@
+TABLAS
+========================
++ TABLA GRAN_PREMIO
+ID
+NOMBRE
+DISTANCIA:500
+NUM_CARRERAS: 3
+
++ TABLA CABALLOS
+ID
+NOMBRE
+FECHA_NACIMIENTO
+VELOCIDAD (1-50)
+EXPERIENCIA (1-100)
+VALOR_APUESTA (1-10)
+ID_GRANPREMIO
+
++ TABLA APOSTANTES
+ID
+NOMBRE
+SALDO
+
+FICHEROS
+===========================
+3 ficheros para cargar las tablas
+
+LOGICA
+============================
++ Por cada GRAN_PREMIO se va a ejecutar el numero de carreras indicado.
+
++ Por cada carrera,
+
+-Apuestas
+cada apostante con saldo>0, preguntar cuanto quieren apostar (no sobrepase el saldo) y por cual de los caballos quiere apostar.
+ID - NOMBRE CABALLO - VALORAPUESTA
+ID NOMBRE CABALLO - VALORAPUESTA
+ID NOMBRE CABALLO - VALORAPUESTA
+
+-Empieza la carrera
+se tiene que poner a correr a los caballos apuntados a dicho gran_premio.
+Cada vez que un caballo corre va a avanzar (velocidad+experiencia-edad+aleatorio(1-50)), gana el caballo que una vez llegados
+a la distanacia establecida tenga mayor distancia recorrida y no puede haber empate.
+
+Al terminar la carrera los apostantes que hayan acertado se les incrementa el saldo de su cuenta con la cantidad apostadaxvalor_apuesta
+A todos los caballos se le incrementa la experiencia en 1 y el caballo que haya ganado se le incrementa la experiencia en 5
+
+Mostrar resumen de cada apostante con su saldo
