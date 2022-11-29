@@ -1,0 +1,10 @@
+01:42:28 PM: INFO [carga_ficheros.py:9] Empezando la carga de ficheros en base de datos
+01:52:47 PM: INFO [carga_ficheros.py:9] Empezando la carga de ficheros en base de datos
+01:52:47 PM: DEBUG [carga_ficheros.py:19] Ficheros a tratar: ['./resources/apostantes.txt', './resources/caballos.txt', './resources/grandes_premios.txt']
+01:52:47 PM: INFO [carga_ficheros.py:23] Fin de la carga de ficheros en base de datos
+01:53:13 PM: INFO [carga_ficheros.py:9] Empezando la carga de ficheros en base de datos
+01:53:13 PM: DEBUG [carga_ficheros.py:19] Ficheros a tratar: ['./resources/1.grandes_premios.txt', './resources/apostantes.txt', './resources/caballos.txt']
+01:53:13 PM: INFO [carga_ficheros.py:23] Fin de la carga de ficheros en base de datos
+01:53:36 PM: INFO [carga_ficheros.py:9] Empezando la carga de ficheros en base de datos
+01:53:36 PM: DEBUG [carga_ficheros.py:19] Ficheros a tratar: ['./resources/1.grandes_premios.txt', './resources/2.caballos.txt', './resources/3.apostantes.txt']
+01:53:36 PM: INFO [carga_ficheros.py:23] Fin de la carga de ficheros en base de datos
